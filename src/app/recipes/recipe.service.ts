@@ -19,7 +19,7 @@ export class RecipeService {
 			new Ingredient ('lemons', 6)
 		]),
     new Recipe('Salmon',
-		'Salmon con salsa de soja','https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_960_720.jpg',
+		'Salmon con salsa de soja','https://images.food52.com/VRSsnY-midXT3jJtm_paYaEKVik=/753x502/2dd88c62-689c-43cf-874e-b96d901fc58d--20120804_food52_08-21-12-2799.jpg',
 		[
 			new Ingredient ('Salmon', 1),
 			new Ingredient ('soy sauce', 1)
