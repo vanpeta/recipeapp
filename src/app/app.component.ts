@@ -8,7 +8,4 @@ import { Component, Input } from '@angular/core';
 export class AppComponent {
   @Input () loadedFeature : string = 'Recipes';
 
-  onNavigate (feature: string) {
-    this.loadedFeature = feature;
-  }
 }
